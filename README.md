@@ -1,4 +1,4 @@
-# sathya--k-115
+# sathya-k-115
 ## 👋 Hi, this is sathya!
 🎓 2nd Year BCA student at SRM RAMAPURAM
 
