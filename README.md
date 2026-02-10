@@ -3,7 +3,7 @@
 🎓 2nd Year BCA student at SRM RAMAPURAM
 
 - 🧠Currently diving deeper into: Machine Learning and data science
-- 👯 I’m interested in collaborating on beginner-friendly ML projects, Java applications, and Go-based backend development.
+-  I’m interested in collaborating on beginner-friendly ML projects, Java applications, and Go-based backend development.
 - I also happen to speak three languages.
 - 🔍 Quick learner with a strong attention to detail
 - 👀 A keen observer and good at grasping new concepts
